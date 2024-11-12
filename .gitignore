@@ -1,0 +1,17 @@
+# Ignore Unity's cache and temporary folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Ignore IDE-specific folders
+.vs/
+.idea/
+.DS_Store
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
